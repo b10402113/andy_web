@@ -10,7 +10,7 @@ public class practice1
 		System.out.println(a);
  		System.out.println(a);
                 System.out.println(a);
-                System.out.println(a);
+                System.out.println("hello");
                 
 	}
 }
