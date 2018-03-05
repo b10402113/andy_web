@@ -9,5 +9,7 @@ public class practice1
 		System.out.println(num1);
 		System.out.println(a);
                 System.out.println(a);
+		System.out.println("hi");
+                
 	}
 }
