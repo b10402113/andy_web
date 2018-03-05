@@ -8,5 +8,9 @@ public class practice1
 		int a = 7 % 2;
 		System.out.println(num1);
 		System.out.println(a);
+ 		System.out.println(a);
+                System.out.println(a);
+                System.out.println(a);
+                
 	}
 }
